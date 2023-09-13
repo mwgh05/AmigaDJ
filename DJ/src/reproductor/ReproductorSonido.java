@@ -62,18 +62,6 @@ public class ReproductorSonido{
 		boton5.setBackground(Color.red);
 		boton6.setBackground(Color.blue);
 		
-		JPanel panel = new JPanel();
-        panel.setLayout(new FlowLayout(FlowLayout.CENTER));
-        /*
-		panel.add(boton1);
-		panel.add(boton2);
-		panel.add(boton3);
-		panel.add(boton4);
-		panel.add(boton5);
-		panel.add(boton6);
-		
-		frame.add(panel)
-		*/
         frame.setLayout(null);
 		frame.setVisible(true);
 	}
